@@ -1,7 +1,8 @@
 # Photovoltaic J-V Curve Analyzer ☀️
 
-$[App Screenshot]$
+**Main Dashboard - Batch Processing & Visualization**
 <img width="1841" height="930" alt="image" src="https://github.com/user-attachments/assets/eeeb7d85-ee7b-4736-b790-242d07f6d40c" />
+**Statistical Analysis & Parameter Extraction**
 <img width="1863" height="845" alt="image" src="https://github.com/user-attachments/assets/627acead-2bba-4992-a47b-fe8be75001c0" />
 
 
