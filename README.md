@@ -1,6 +1,7 @@
 # Photovoltaic J-V Curve Analyzer ☀️
 
-![App Screenshot](URL_DE_TU_CAPTURA_DE_PANTALLA_AQUI)
+![App Screenshot]<img width="1841" height="930" alt="image" src="https://github.com/user-attachments/assets/eeeb7d85-ee7b-4736-b790-242d07f6d40c" />
+
 
 ## 📌 Overview
 This Streamlit-based web application is designed to automate and standardize the processing of experimental Current-Voltage (J-V) curves for Photovoltaic devices (e.g., DSSCs, Perovskites). It eliminates manual plotting bottlenecks by providing researchers with a rapid, interactive interface to visualize raw `.txt` data, instantly extract key optoelectronic parameters, and generate comprehensive statistical reports.
