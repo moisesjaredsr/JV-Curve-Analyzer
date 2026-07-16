@@ -19,7 +19,7 @@ This Streamlit-based web application is designed to automate and standardize the
 *   **Advanced Data Export:** Generates `.xlsx` reports complete with raw data, parameter tables, and **natively editable Excel scatter charts** (injected via `xlsxwriter`), streamlining the transition from data acquisition to publication formatting.
 
 ## 🛠️ Tech Stack
-*   **Language:** Python 3.x
+*   **Language:** Python 3.13
 *   **Framework:** Streamlit
 *   **Data Processing:** Pandas, NumPy, Regex
 *   **Visualization:** Plotly (Interactive Web), XlsxWriter (Native Excel Charts)
